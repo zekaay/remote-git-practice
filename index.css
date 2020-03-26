@@ -1,0 +1,31 @@
+.mainmenubar{
+    background-color: brown;
+    border-radius: 0px;
+    color: white;
+    margin-bottom: 0px;
+
+}
+
+.logo {
+    font-weight: bolder;
+}
+
+.mainmenubar > li > a {
+    color: #fffcfc;
+}
+.aboutpizza, .pizzatypes{
+	text-align: center;
+	margin-top: 7%;
+}
+
+.footer{
+    margin-top: 2%;
+    padding: 2% 0%;
+    background-color: brown;
+    color:white;
+    text-align:center;
+}
+.slider-box{
+    height: 1000px;
+}
+
